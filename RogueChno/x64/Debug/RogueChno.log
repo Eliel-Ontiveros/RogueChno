@@ -1,6 +1,13 @@
-﻿  Game.cpp
-C:\SDL\Proyectos\RogueChno\Game.cpp(251,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\SDL\Proyectos\RogueChno\Game.cpp(277,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
-C:\SDL\Proyectos\RogueChno\Game.cpp(300,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\SDL\Proyectos\RogueChno\Game.cpp(345,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+﻿  Effect.cpp
+  Enemy.cpp
+  Entity.cpp
+  Game.cpp
+C:\SDL\Proyectos\RogueChno\src\Game.cpp(250,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\SDL\Proyectos\RogueChno\src\Game.cpp(276,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\SDL\Proyectos\RogueChno\src\Game.cpp(299,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\SDL\Proyectos\RogueChno\src\Game.cpp(344,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  main.cpp
+  Player.cpp
+C:\SDL\Proyectos\RogueChno\src\Player.cpp(9,21): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
   RogueChno.vcxproj -> C:\SDL\Proyectos\RogueChno\x64\Debug\RogueChno.exe

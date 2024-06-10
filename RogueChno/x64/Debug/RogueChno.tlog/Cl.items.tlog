@@ -1,6 +1,6 @@
-C:\SDL\Proyectos\RogueChno\Effect.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Effect.obj
-C:\SDL\Proyectos\RogueChno\Enemy.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Enemy.obj
-C:\SDL\Proyectos\RogueChno\Entity.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Entity.obj
-C:\SDL\Proyectos\RogueChno\Game.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Game.obj
-C:\SDL\Proyectos\RogueChno\Player.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Player.obj
-C:\SDL\Proyectos\RogueChno\main.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\main.obj
+C:\SDL\Proyectos\RogueChno\src\Effect.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Effect.obj
+C:\SDL\Proyectos\RogueChno\src\Enemy.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Enemy.obj
+C:\SDL\Proyectos\RogueChno\src\Entity.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Entity.obj
+C:\SDL\Proyectos\RogueChno\src\Game.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Game.obj
+C:\SDL\Proyectos\RogueChno\src\main.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\main.obj
+C:\SDL\Proyectos\RogueChno\src\Player.cpp;C:\SDL\Proyectos\RogueChno\RogueChno\x64\Debug\Player.obj
